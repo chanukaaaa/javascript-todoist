@@ -38,14 +38,14 @@ The application uses local storage to store your To-Do list. Your task list will
 
 ### Screenshots
 
-![Screenshot 1](/images/screenshots/1.png)
 Add-new-task form
+![Screenshot 1](/images/screenshots/1.png)
 
-![Screenshot 2](/images/screenshots/2.png)
 Unchecked tasks list
+![Screenshot 2](/images/screenshots/2.png)
 
-![Screenshot 3](/images/screenshots/3.png)
 Task list with some unchecked tasks
+![Screenshot 3](/images/screenshots/3.png)
 
-![Screenshot 4](/images/screenshots/4.png)
 Delete unwanted tasks
+![Screenshot 4](/images/screenshots/4.png)
